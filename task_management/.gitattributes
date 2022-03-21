@@ -1,5 +1,5 @@
 *.flutter linguist-detectable=true  
-*.csharp linguist-detectable=false  
+*.cpp linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false  
